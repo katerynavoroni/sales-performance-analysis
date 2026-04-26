@@ -1,0 +1,7 @@
+Avg Salary = AVERAGE(salaries[salary])
+
+Total Payroll = SUM(salaries[salary])
+
+Avg Absence = AVERAGE(attendance[absence_days])
+
+Employees = DISTINCTCOUNT(employees[employee_id])
