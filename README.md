@@ -1,5 +1,6 @@
+
 # Sales Analytics End-to-End Project
-<img width="1030" height="585" alt="powerBI_output" src="https://github.com/user-attachments/assets/630810a3-a562-438a-96a4-5c5723038d44" />
+<img width="1476" height="831" alt="PowerBI_Sales Dashboard" src="https://github.com/user-attachments/assets/c9c990e4-794c-41f8-9a82-930b4141364e" />
 
 ## Overview
 
